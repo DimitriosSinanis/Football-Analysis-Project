@@ -9,53 +9,53 @@ This project provides a comprehensive data analysis of football players from the
 
 League Analysis:
 
-Player distribution by leagues
+-Player distribution by leagues
 
-Average player age per league
+-Average player age per league
 
-Total and expected goals (xG) comparisons
+-Total and expected goals (xG) comparisons
 
-Assist metrics (Assists vs Expected Assists)
+-Assist metrics (Assists vs Expected Assists)
 
-Discipline metrics (yellow and red cards)
+-Discipline metrics (yellow and red cards)
 
 Team Analysis:
 
-Top teams based on goals, assists, and expected metrics
+-Top teams based on goals, assists, and expected metrics
 
-Age distribution among teams
+-Age distribution among teams
 
-Progressive metrics (carries, passes, runs)
+-Progressive metrics (carries, passes, runs)
 
 Player Analysis:
 
-Top scorers, assisters, and overperformers
+-Top scorers, assisters, and overperformers
 
-Expected metrics (xG, xAG)
+-Expected metrics (xG, xAG)
 
-Positional analysis (forwards, midfielders, defenders)
+-Positional analysis (forwards, midfielders, defenders)
 
 🔍 Dataset
 
 The dataset contains detailed statistics of football players, including:
 
-Player Information: Name, nationality, position, age, team.
+-Player Information: Name, nationality, position, age, team.
 
-Performance Metrics: Goals (Gls), Assists (Ast), Expected Goals (xG), Expected Assists (xAG), Progressive Carries (PrgC), etc.
+-Performance Metrics: Goals (Gls), Assists (Ast), Expected Goals (xG), Expected Assists (xAG), Progressive Carries (PrgC), etc.
 
-Disciplinary Records: Yellow cards (CrdY) and red cards (CrdR).
+-Disciplinary Records: Yellow cards (CrdY) and red cards (CrdR).
 
 Columns of Interest
 
 Some key columns include:
 
-G+A: Combined goals and assists
+-G+A: Combined goals and assists
 
-xG+xAG: Combined expected goals and assists
+-xG+xAG: Combined expected goals and assists
 
-PrgC / PrgP / PrgR: Progressive carries, passes, and runs
+-PrgC / PrgP / PrgR: Progressive carries, passes, and runs
 
-CrdY / CrdR: Yellow and red card statistics
+-CrdY / CrdR: Yellow and red card statistics
 
 📊 Visualizations
 
@@ -63,23 +63,23 @@ This project features over 50 detailed visualizations, including:
 
 League Comparisons:
 
-Pie charts showing player and goal distribution
+-Pie charts showing player and goal distribution
 
-Bar charts comparing xG and goals scored per league
+-Bar charts comparing xG and goals scored per league
 
 Team Insights:
 
-Top teams in scoring, assists, and progressive metrics
+-Top teams in scoring, assists, and progressive metrics
 
-Discipline comparisons (cards per team)
+-Discipline comparisons (cards per team)
 
 Player Highlights:
 
-Top scorers and assisters
+-Top scorers and assisters
 
-Overachievers based on xG and xAG metrics
+-Overachievers based on xG and xAG metrics
 
-Position-specific breakdowns (e.g., defenders with most goals, midfielders with most assists)
+-Position-specific breakdowns (e.g., defenders with most goals, midfielders with most assists)
 
 🔗 Installation and Usage
 
