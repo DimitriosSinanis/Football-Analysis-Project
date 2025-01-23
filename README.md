@@ -125,13 +125,18 @@ How do midfielders and defenders contribute beyond their traditional roles?
 
 1. Player Positions Distribution
 
+![image](https://github.com/user-attachments/assets/256f7564-e9eb-482a-83be-d47215b8c104)
+
 
 
 2. Goals vs Expected Goals (xG) for Top 20 Forwards
+![image](https://github.com/user-attachments/assets/094ef691-8f6c-4e72-903f-6498d07e705b)
 
 
 
 3. League Comparison of Goals
+
+![image](https://github.com/user-attachments/assets/ef5bbdf0-5821-4d0d-816f-dda3611b7920)
 
 
 
